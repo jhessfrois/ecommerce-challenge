@@ -23,7 +23,7 @@
   <img alt="Preview do projeto desenvolvido." src="./.github/preview.png" width="80%">
 </p>
 
-> Projeto desenvolvido entre os dias 27/01 e 02/02 de 2023 
+> Projeto desenvolvido entre os dias 07/01 e 12/01 de 2023 
 
 ## **🚀 Tecnologias**
 
